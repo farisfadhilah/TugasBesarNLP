@@ -11,7 +11,7 @@ Aplikasi ini terdiri dari 3 model yaitu Spelling Correction, Detection Language,
 - Terinstall TextBlob. Install dengan `pip install TextBlob`
 
 ## Attachment
-- Model Detection Language : [Model Detection Language](https://drive.google.com/drive/folders/1gSWuketndljLMJn7sitFy63c5n2jc5sI?usp=sharing) 
+- Detection Language : [Model Detection Language](https://drive.google.com/drive/folders/1gSWuketndljLMJn7sitFy63c5n2jc5sI?usp=sharing) 
 
 ## Authors
 - Faris Fadhilah - 13518026 - Teknik Informatika 2018, Institut Teknologi Bandung, Bandung
